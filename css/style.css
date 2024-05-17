@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    display: flex;
+    width: 400px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* background-color: blueviolet; */
+    padding-top: 0px;
+    /* margin: 200px; */
+    background-color: burlywood;
+}
+
+#result{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
